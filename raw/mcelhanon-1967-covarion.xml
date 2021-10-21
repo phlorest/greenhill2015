@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='BinaryCovarion' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" version="2.0">
+
+
+    <data
+id="mcelhanon-1967"
+dataType="standard"
+name="alignment">
+                    <sequence id="seq_borong1" taxon="borong" totalcount="2" value="0000000000100000000110000010110010010000010100000000000101000111110000011100100000101100010000001000100000000100010000010100000000000000011000000000100000000000100101001000000101000010000000000001110000010110011000000000100010011000000000000010010000000100010000000000000100110000100000010010010000000010000100000000000010001001100101000100100000010011000000100100100000000100000100110100000"/>
+                    <sequence id="seq_burum1" taxon="burum" totalcount="2" value="0010000000010110000010000100010001010001000000001001100101100001110001010100101000000000000001101010110001001001010001000100100000000001010001010000100000000011100000000000000101000010110010000100001010100110001010100000110000011000000000000001010000110100011010000011000101010010001010000011010010000010100000000100100010001001100101000101100000110011000010100000001000000100000010111101011"/>
+                    <sequence id="seq_dedua1" taxon="dedua" totalcount="2" value="1001000010100000000010001010110000010000100100010100111011011011010000110100000000000010100100001000000110100001011001000100001000000000001000001000100111000100100000010000010010000100000100100001010000000000010001000100100010010100100010100010110010000000110101000100010100001000100000001001000101000000000100001000100010000101101001000010110000100010010100010000110000000001000000100000010"/>
+                    <sequence id="seq_kate1" taxon="kate" totalcount="2" value="0001010000001001101010000000110000100000101001000000011010001011010100110100010010000000001000001000001100010100011000001000001000000000100000000000110000100100010000010001010010000100000100100001100001010000010101000100100001000100100010110000101100000011010101000000010010001001100000000000000100001000001001100000100101100010011000100010110100000010000000011000010110010001000000000000110"/>
+                    <sequence id="seq_komba1" taxon="komba" totalcount="2" value="0101100000000100010010100000001100100010000000001001110100000001110001000110001001000001000110001000100000001000100110100001100010110011000101000101000000011000110000100000000100010011001010011000000000101100001000001010001000010011000000010000010000000000011010010010000000010110001000100100000000110010100000010110001000010101000101010001101000101100101000100000100001000010011010110001001"/>
+                    <sequence id="seq_kube1" taxon="kube" totalcount="2" value="1010000010000000000110001000110010010000000110110100100101011011110001010100100100001100100101001011000010100011010001000100010001000000011000101010100111000000101101000010000001101010000100000101010000000010011001000000100010111000001100000010010001000100110101000000010100010000110000001011000001000000010100001001000010000101100101000001110000110010010100100001100000001000000101100000010"/>
+                    <sequence id="seq_mape1" taxon="mape" totalcount="2" value="0001010000011001101010000000110000100000001001000000000010001000010100110100010010000000001100001000001100010100011000001000001000000000100000000000110000100000010000010001010000000000000100100000100001000000010100000100100001010100100000100000101100000001010101000100010010001001110000000000000100001000001001100000100101100010011000100000110100000010000000011000010110010001000000000000110"/>
+                    <sequence id="seq_mesem1" taxon="mesem" totalcount="2" value="0001000100000000010001010001001100100100000000000000100100000001101000010111000000000001000010000100010000000001010010000010100000001100000010000000001000001000100000000100101101000010011010000000000100000001000000010001000000000000000001000100010000000000011000001000101000010000000001000000100000100100000010000000010000000101100000000100100011010110000000000010000001100000100000010011000"/>
+                    <sequence id="seq_mindik1" taxon="mindik" totalcount="2" value="0010000000010110000010000100010001010001010000001001100101100111110000011100101000000000000101101010110001000011010000010100000000000000010001010010100100000011100001001000000101000010010010000100001010100110001011000000110000001000001000101001010000110100011000100011000101110010001010000010010010000010110000000100100010001001100101000101100000110011000010100100001000000000000111111101011"/>
+                    <sequence id="seq_nabak1" taxon="nabak" totalcount="2" value="0001000100000000010001010000001100100100000000000000100100000001111000000101000000000101010000000100010000000001000010000001000100001100000010000000001100001000000000000100001101000010001000000010000100100001000000010001000000000000000001000100010000001000011000001000101000010000001001000000100000100100000010000110010000000101100011001100100010000010000000000010000000100000100000010010000"/>
+                    <sequence id="seq_ono1" taxon="ono" totalcount="2" value="0000000000000001000000000000010000100000000010000000010100000000010000010100000000000010000100001000001000000001010000011000000001000010001000000000000000000000110101000000000101000000000100001000010000001110000000000000100110010000000000000010100001000010000000000000000000000000100000010000000001000001000000000100100000000100100001000000100000100000000000000000000100000000000000101000010"/>
+                    <sequence id="seq_selepet1" taxon="selepet" totalcount="2" value="0101101001000100010010100001001100101010000100001010100100000001110011010110001001010001000000010000000000000000110110100001100100110011000101000101000000010000110010100000000100010011000011011010000000001000100000001010000000000011010000000000110000000000011010010010000000010010001100100100001000110001100000010100001000010101000111011001101000100000101001000000100001000010011010110001001"/>
+                    <sequence id="seq_timbe1" taxon="timbe" totalcount="2" value="0001101001000100010000100000001100101000000000001010100100000000110010010010001001010001000010010000000000000000110010100010100010100001000101000101000000010000110010100000100000010001000011000100000000101100100000001010001000000000010000000010010000001000011000010010001000010010001100100100001000100000100000010100001000000100000101000001100001001100000001000000000001000010010010110000001"/>
+                    <sequence id="seq_tobo1" taxon="tobo" totalcount="2" value="1010000010000000000110000110110010010000000110110101100101011011110001010100100100101010100100101011000000000011010001000100010001000000011000100010100101000000101100010010000001101010110100000100000010000010011000100000100110111000001100101001010010000000110010100000000100010100100000001011000011000000010100001001000010000101100100000001100000110010000000100101000000001000000101100000011"/>
+                    <userDataType id="StandardData.0" spec="beast.evolution.datatype.StandardData" ambiguities="" nrOfStates="2">
+                        <charstatelabels id="UserDataType.0" spec="beast.evolution.datatype.UserDataType" characterName="1e7c" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.01" spec="beast.evolution.datatype.UserDataType" characterName="1e7b" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.02" spec="beast.evolution.datatype.UserDataType" characterName="1e7a" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.03" spec="beast.evolution.datatype.UserDataType" characterName="1e7f" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.04" spec="beast.evolution.datatype.UserDataType" characterName="1e7e" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.05" spec="beast.evolution.datatype.UserDataType" characterName="1e7d" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.06" spec="beast.evolution.datatype.UserDataType" characterName="1f23" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.07" spec="beast.evolution.datatype.UserDataType" characterName="1f22" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.08" spec="beast.evolution.datatype.UserDataType" characterName="1f21" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.09" spec="beast.evolution.datatype.UserDataType" characterName="1f20" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.010" spec="beast.evolution.datatype.UserDataType" characterName="1f27" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.011" spec="beast.evolution.datatype.UserDataType" characterName="1f26" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.012" spec="beast.evolution.datatype.UserDataType" characterName="1f25" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.013" spec="beast.evolution.datatype.UserDataType" characterName="1f24" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.014" spec="beast.evolution.datatype.UserDataType" characterName="1f29" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.015" spec="beast.evolution.datatype.UserDataType" characterName="1f28" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.016" spec="beast.evolution.datatype.UserDataType" characterName="1e79" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.017" spec="beast.evolution.datatype.UserDataType" characterName="1e78" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.018" spec="beast.evolution.datatype.UserDataType" characterName="1e73" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.019" spec="beast.evolution.datatype.UserDataType" characterName="1e72" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.020" spec="beast.evolution.datatype.UserDataType" characterName="1e71" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.021" spec="beast.evolution.datatype.UserDataType" characterName="1e70" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.022" spec="beast.evolution.datatype.UserDataType" characterName="1e77" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.023" spec="beast.evolution.datatype.UserDataType" characterName="1e76" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.024" spec="beast.evolution.datatype.UserDataType" characterName="1e75" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.025" spec="beast.evolution.datatype.UserDataType" characterName="1e74" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.026" spec="beast.evolution.datatype.UserDataType" characterName="1f2c" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.027" spec="beast.evolution.datatype.UserDataType" characterName="1f2b" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.028" spec="beast.evolution.datatype.UserDataType" characterName="1f2a" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.029" spec="beast.evolution.datatype.UserDataType" characterName="1f2f" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.030" spec="beast.evolution.datatype.UserDataType" characterName="1f2e" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.031" spec="beast.evolution.datatype.UserDataType" characterName="1f2d" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.032" spec="beast.evolution.datatype.UserDataType" characterName="1ea9" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.033" spec="beast.evolution.datatype.UserDataType" characterName="1ea8" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.034" spec="beast.evolution.datatype.UserDataType" characterName="1ea5" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.035" spec="beast.evolution.datatype.UserDataType" characterName="1ea4" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.036" spec="beast.evolution.datatype.UserDataType" characterName="1ea7" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.037" spec="beast.evolution.datatype.UserDataType" characterName="1ea6" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.038" spec="beast.evolution.datatype.UserDataType" characterName="1ea1" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.039" spec="beast.evolution.datatype.UserDataType" characterName="1ea0" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.040" spec="beast.evolution.datatype.UserDataType" characterName="1ea3" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.041" spec="beast.evolution.datatype.UserDataType" characterName="1ea2" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.042" spec="beast.evolution.datatype.UserDataType" characterName="1eae" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.043" spec="beast.evolution.datatype.UserDataType" characterName="1ead" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.044" spec="beast.evolution.datatype.UserDataType" characterName="1eaf" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.045" spec="beast.evolution.datatype.UserDataType" characterName="1eaa" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.046" spec="beast.evolution.datatype.UserDataType" characterName="1eac" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.047" spec="beast.evolution.datatype.UserDataType" characterName="1eab" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.048" spec="beast.evolution.datatype.UserDataType" characterName="1f58" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.049" spec="beast.evolution.datatype.UserDataType" characterName="1f59" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.050" spec="beast.evolution.datatype.UserDataType" characterName="1f52" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.051" spec="beast.evolution.datatype.UserDataType" characterName="1f53" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.052" spec="beast.evolution.datatype.UserDataType" characterName="1f50" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.053" spec="beast.evolution.datatype.UserDataType" characterName="1f51" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.054" spec="beast.evolution.datatype.UserDataType" characterName="1f56" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.055" spec="beast.evolution.datatype.UserDataType" characterName="1f57" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.056" spec="beast.evolution.datatype.UserDataType" characterName="1f54" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.057" spec="beast.evolution.datatype.UserDataType" characterName="1f55" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.058" spec="beast.evolution.datatype.UserDataType" characterName="1ee6" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.059" spec="beast.evolution.datatype.UserDataType" characterName="1f5b" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.060" spec="beast.evolution.datatype.UserDataType" characterName="1f5c" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.061" spec="beast.evolution.datatype.UserDataType" characterName="1f5a" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.062" spec="beast.evolution.datatype.UserDataType" characterName="1f5f" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.063" spec="beast.evolution.datatype.UserDataType" characterName="1f5d" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.064" spec="beast.evolution.datatype.UserDataType" characterName="1f5e" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.065" spec="beast.evolution.datatype.UserDataType" characterName="1e02" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.066" spec="beast.evolution.datatype.UserDataType" characterName="1e03" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.067" spec="beast.evolution.datatype.UserDataType" characterName="1e00" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.068" spec="beast.evolution.datatype.UserDataType" characterName="1e01" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.069" spec="beast.evolution.datatype.UserDataType" characterName="1e06" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.070" spec="beast.evolution.datatype.UserDataType" characterName="1e07" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.071" spec="beast.evolution.datatype.UserDataType" characterName="1e04" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.072" spec="beast.evolution.datatype.UserDataType" characterName="1e05" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.073" spec="beast.evolution.datatype.UserDataType" characterName="1e08" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.074" spec="beast.evolution.datatype.UserDataType" characterName="1e09" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.075" spec="beast.evolution.datatype.UserDataType" characterName="1ebd" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.076" spec="beast.evolution.datatype.UserDataType" characterName="1e46" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.077" spec="beast.evolution.datatype.UserDataType" characterName="1ee3" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.078" spec="beast.evolution.datatype.UserDataType" characterName="1ee2" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.079" spec="beast.evolution.datatype.UserDataType" characterName="1ee5" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.080" spec="beast.evolution.datatype.UserDataType" characterName="1ee4" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.081" spec="beast.evolution.datatype.UserDataType" characterName="1ee7" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.082" spec="beast.evolution.datatype.UserDataType" characterName="1e47" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.083" spec="beast.evolution.datatype.UserDataType" characterName="1ee9" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.084" spec="beast.evolution.datatype.UserDataType" characterName="1ee8" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.085" spec="beast.evolution.datatype.UserDataType" characterName="1ee1" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.086" spec="beast.evolution.datatype.UserDataType" characterName="1ee0" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.087" spec="beast.evolution.datatype.UserDataType" characterName="1ebf" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.088" spec="beast.evolution.datatype.UserDataType" characterName="1e0b" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.089" spec="beast.evolution.datatype.UserDataType" characterName="1e0c" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.090" spec="beast.evolution.datatype.UserDataType" characterName="1e0a" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.091" spec="beast.evolution.datatype.UserDataType" characterName="1e0f" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.092" spec="beast.evolution.datatype.UserDataType" characterName="1e0d" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.093" spec="beast.evolution.datatype.UserDataType" characterName="1e0e" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.094" spec="beast.evolution.datatype.UserDataType" characterName="1eba" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.095" spec="beast.evolution.datatype.UserDataType" characterName="1ebb" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.096" spec="beast.evolution.datatype.UserDataType" characterName="1ebc" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.097" spec="beast.evolution.datatype.UserDataType" characterName="1eea" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.098" spec="beast.evolution.datatype.UserDataType" characterName="1ebe" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.099" spec="beast.evolution.datatype.UserDataType" characterName="1eec" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0100" spec="beast.evolution.datatype.UserDataType" characterName="1eeb" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0101" spec="beast.evolution.datatype.UserDataType" characterName="1eb0" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0102" spec="beast.evolution.datatype.UserDataType" characterName="1eed" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0103" spec="beast.evolution.datatype.UserDataType" characterName="1eb2" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0104" spec="beast.evolution.datatype.UserDataType" characterName="1eef" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0105" spec="beast.evolution.datatype.UserDataType" characterName="1e49" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0106" spec="beast.evolution.datatype.UserDataType" characterName="1eb8" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0107" spec="beast.evolution.datatype.UserDataType" characterName="1eb9" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0108" spec="beast.evolution.datatype.UserDataType" characterName="1f1f" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0109" spec="beast.evolution.datatype.UserDataType" characterName="1f1d" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0110" spec="beast.evolution.datatype.UserDataType" characterName="1f1e" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0111" spec="beast.evolution.datatype.UserDataType" characterName="1f1b" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0112" spec="beast.evolution.datatype.UserDataType" characterName="1f1c" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0113" spec="beast.evolution.datatype.UserDataType" characterName="1f1a" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0114" spec="beast.evolution.datatype.UserDataType" characterName="1f18" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0115" spec="beast.evolution.datatype.UserDataType" characterName="1f19" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0116" spec="beast.evolution.datatype.UserDataType" characterName="1f16" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0117" spec="beast.evolution.datatype.UserDataType" characterName="1f17" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0118" spec="beast.evolution.datatype.UserDataType" characterName="1f14" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0119" spec="beast.evolution.datatype.UserDataType" characterName="1f15" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0120" spec="beast.evolution.datatype.UserDataType" characterName="1f12" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0121" spec="beast.evolution.datatype.UserDataType" characterName="1f13" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0122" spec="beast.evolution.datatype.UserDataType" characterName="1f10" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0123" spec="beast.evolution.datatype.UserDataType" characterName="1f11" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0124" spec="beast.evolution.datatype.UserDataType" characterName="1e4f" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0125" spec="beast.evolution.datatype.UserDataType" characterName="1e4d" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0126" spec="beast.evolution.datatype.UserDataType" characterName="1e4e" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0127" spec="beast.evolution.datatype.UserDataType" characterName="1e4b" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0128" spec="beast.evolution.datatype.UserDataType" characterName="1e4c" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0129" spec="beast.evolution.datatype.UserDataType" characterName="1e4a" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0130" spec="beast.evolution.datatype.UserDataType" characterName="1efa" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0131" spec="beast.evolution.datatype.UserDataType" characterName="1efb" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0132" spec="beast.evolution.datatype.UserDataType" characterName="1efc" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0133" spec="beast.evolution.datatype.UserDataType" characterName="1efd" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0134" spec="beast.evolution.datatype.UserDataType" characterName="1efe" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0135" spec="beast.evolution.datatype.UserDataType" characterName="1eff" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0136" spec="beast.evolution.datatype.UserDataType" characterName="1ef8" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0137" spec="beast.evolution.datatype.UserDataType" characterName="1ef9" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0138" spec="beast.evolution.datatype.UserDataType" characterName="1e44" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0139" spec="beast.evolution.datatype.UserDataType" characterName="1e45" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0140" spec="beast.evolution.datatype.UserDataType" characterName="1e42" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0141" spec="beast.evolution.datatype.UserDataType" characterName="1e43" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0142" spec="beast.evolution.datatype.UserDataType" characterName="1e40" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0143" spec="beast.evolution.datatype.UserDataType" characterName="1e41" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0144" spec="beast.evolution.datatype.UserDataType" characterName="1ef0" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0145" spec="beast.evolution.datatype.UserDataType" characterName="1ef1" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0146" spec="beast.evolution.datatype.UserDataType" characterName="1ef2" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0147" spec="beast.evolution.datatype.UserDataType" characterName="1ef3" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0148" spec="beast.evolution.datatype.UserDataType" characterName="1ef4" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0149" spec="beast.evolution.datatype.UserDataType" characterName="1ef5" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0150" spec="beast.evolution.datatype.UserDataType" characterName="1ef6" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0151" spec="beast.evolution.datatype.UserDataType" characterName="1ef7" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0152" spec="beast.evolution.datatype.UserDataType" characterName="1de4" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0153" spec="beast.evolution.datatype.UserDataType" characterName="1f35" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0154" spec="beast.evolution.datatype.UserDataType" characterName="1de6" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0155" spec="beast.evolution.datatype.UserDataType" characterName="1ede" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0156" spec="beast.evolution.datatype.UserDataType" characterName="1eda" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0157" spec="beast.evolution.datatype.UserDataType" characterName="1e1e" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0158" spec="beast.evolution.datatype.UserDataType" characterName="1e1d" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0159" spec="beast.evolution.datatype.UserDataType" characterName="1e1f" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0160" spec="beast.evolution.datatype.UserDataType" characterName="1e1a" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0161" spec="beast.evolution.datatype.UserDataType" characterName="1e1c" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0162" spec="beast.evolution.datatype.UserDataType" characterName="1e1b" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0163" spec="beast.evolution.datatype.UserDataType" characterName="1eb4" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0164" spec="beast.evolution.datatype.UserDataType" characterName="1eb5" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0165" spec="beast.evolution.datatype.UserDataType" characterName="1e8b" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0166" spec="beast.evolution.datatype.UserDataType" characterName="1e8c" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0167" spec="beast.evolution.datatype.UserDataType" characterName="1e8a" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0168" spec="beast.evolution.datatype.UserDataType" characterName="1e8f" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0169" spec="beast.evolution.datatype.UserDataType" characterName="1eb6" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0170" spec="beast.evolution.datatype.UserDataType" characterName="1e8d" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0171" spec="beast.evolution.datatype.UserDataType" characterName="1e8e" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0172" spec="beast.evolution.datatype.UserDataType" characterName="1f45" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0173" spec="beast.evolution.datatype.UserDataType" characterName="1f44" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0174" spec="beast.evolution.datatype.UserDataType" characterName="1f47" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0175" spec="beast.evolution.datatype.UserDataType" characterName="1eb7" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0176" spec="beast.evolution.datatype.UserDataType" characterName="1f41" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0177" spec="beast.evolution.datatype.UserDataType" characterName="1f40" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0178" spec="beast.evolution.datatype.UserDataType" characterName="1f43" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0179" spec="beast.evolution.datatype.UserDataType" characterName="1f42" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0180" spec="beast.evolution.datatype.UserDataType" characterName="1df9" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0181" spec="beast.evolution.datatype.UserDataType" characterName="1f49" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0182" spec="beast.evolution.datatype.UserDataType" characterName="1f48" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0183" spec="beast.evolution.datatype.UserDataType" characterName="1eb1" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0184" spec="beast.evolution.datatype.UserDataType" characterName="1e19" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0185" spec="beast.evolution.datatype.UserDataType" characterName="1e18" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0186" spec="beast.evolution.datatype.UserDataType" characterName="1e15" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0187" spec="beast.evolution.datatype.UserDataType" characterName="1e14" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0188" spec="beast.evolution.datatype.UserDataType" characterName="1e17" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0189" spec="beast.evolution.datatype.UserDataType" characterName="1e16" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0190" spec="beast.evolution.datatype.UserDataType" characterName="1e11" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0191" spec="beast.evolution.datatype.UserDataType" characterName="1e10" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0192" spec="beast.evolution.datatype.UserDataType" characterName="1e13" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0193" spec="beast.evolution.datatype.UserDataType" characterName="1e12" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0194" spec="beast.evolution.datatype.UserDataType" characterName="1f38" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0195" spec="beast.evolution.datatype.UserDataType" characterName="1f39" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0196" spec="beast.evolution.datatype.UserDataType" characterName="1f4e" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0197" spec="beast.evolution.datatype.UserDataType" characterName="1f4d" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0198" spec="beast.evolution.datatype.UserDataType" characterName="1f4f" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0199" spec="beast.evolution.datatype.UserDataType" characterName="1f4a" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0200" spec="beast.evolution.datatype.UserDataType" characterName="1f4c" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0201" spec="beast.evolution.datatype.UserDataType" characterName="1f4b" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0202" spec="beast.evolution.datatype.UserDataType" characterName="1e88" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0203" spec="beast.evolution.datatype.UserDataType" characterName="1e89" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0204" spec="beast.evolution.datatype.UserDataType" characterName="1e82" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0205" spec="beast.evolution.datatype.UserDataType" characterName="1e83" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0206" spec="beast.evolution.datatype.UserDataType" characterName="1e80" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0207" spec="beast.evolution.datatype.UserDataType" characterName="1e81" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0208" spec="beast.evolution.datatype.UserDataType" characterName="1e86" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0209" spec="beast.evolution.datatype.UserDataType" characterName="1e87" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0210" spec="beast.evolution.datatype.UserDataType" characterName="1e84" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0211" spec="beast.evolution.datatype.UserDataType" characterName="1e85" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0212" spec="beast.evolution.datatype.UserDataType" characterName="1eb3" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0213" spec="beast.evolution.datatype.UserDataType" characterName="1ec7" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0214" spec="beast.evolution.datatype.UserDataType" characterName="1ec6" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0215" spec="beast.evolution.datatype.UserDataType" characterName="1ec5" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0216" spec="beast.evolution.datatype.UserDataType" characterName="1ec4" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0217" spec="beast.evolution.datatype.UserDataType" characterName="1ec3" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0218" spec="beast.evolution.datatype.UserDataType" characterName="1ec2" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0219" spec="beast.evolution.datatype.UserDataType" characterName="1ec1" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0220" spec="beast.evolution.datatype.UserDataType" characterName="1ec0" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0221" spec="beast.evolution.datatype.UserDataType" characterName="1ec9" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0222" spec="beast.evolution.datatype.UserDataType" characterName="1ec8" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0223" spec="beast.evolution.datatype.UserDataType" characterName="1ded" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0224" spec="beast.evolution.datatype.UserDataType" characterName="1ed7" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0225" spec="beast.evolution.datatype.UserDataType" characterName="1ed4" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0226" spec="beast.evolution.datatype.UserDataType" characterName="1ed3" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0227" spec="beast.evolution.datatype.UserDataType" characterName="1ecf" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0228" spec="beast.evolution.datatype.UserDataType" characterName="1ece" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0229" spec="beast.evolution.datatype.UserDataType" characterName="1ecd" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0230" spec="beast.evolution.datatype.UserDataType" characterName="1ecc" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0231" spec="beast.evolution.datatype.UserDataType" characterName="1ecb" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0232" spec="beast.evolution.datatype.UserDataType" characterName="1eca" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0233" spec="beast.evolution.datatype.UserDataType" characterName="1ed1" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0234" spec="beast.evolution.datatype.UserDataType" characterName="1f09" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0235" spec="beast.evolution.datatype.UserDataType" characterName="1f08" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0236" spec="beast.evolution.datatype.UserDataType" characterName="1deb" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0237" spec="beast.evolution.datatype.UserDataType" characterName="1f01" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0238" spec="beast.evolution.datatype.UserDataType" characterName="1f00" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0239" spec="beast.evolution.datatype.UserDataType" characterName="1f03" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0240" spec="beast.evolution.datatype.UserDataType" characterName="1f02" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0241" spec="beast.evolution.datatype.UserDataType" characterName="1f05" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0242" spec="beast.evolution.datatype.UserDataType" characterName="1f04" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0243" spec="beast.evolution.datatype.UserDataType" characterName="1f07" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0244" spec="beast.evolution.datatype.UserDataType" characterName="1f06" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0245" spec="beast.evolution.datatype.UserDataType" characterName="1f0a" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0246" spec="beast.evolution.datatype.UserDataType" characterName="1f0c" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0247" spec="beast.evolution.datatype.UserDataType" characterName="1f0b" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0248" spec="beast.evolution.datatype.UserDataType" characterName="1f0e" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0249" spec="beast.evolution.datatype.UserDataType" characterName="1f0d" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0250" spec="beast.evolution.datatype.UserDataType" characterName="1f0f" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0251" spec="beast.evolution.datatype.UserDataType" characterName="1e24" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0252" spec="beast.evolution.datatype.UserDataType" characterName="1e25" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0253" spec="beast.evolution.datatype.UserDataType" characterName="1e26" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0254" spec="beast.evolution.datatype.UserDataType" characterName="1e27" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0255" spec="beast.evolution.datatype.UserDataType" characterName="1e20" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0256" spec="beast.evolution.datatype.UserDataType" characterName="1e21" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0257" spec="beast.evolution.datatype.UserDataType" characterName="1e22" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0258" spec="beast.evolution.datatype.UserDataType" characterName="1e23" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0259" spec="beast.evolution.datatype.UserDataType" characterName="1e28" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0260" spec="beast.evolution.datatype.UserDataType" characterName="1e29" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0261" spec="beast.evolution.datatype.UserDataType" characterName="1e51" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0262" spec="beast.evolution.datatype.UserDataType" characterName="1e50" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0263" spec="beast.evolution.datatype.UserDataType" characterName="1e53" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0264" spec="beast.evolution.datatype.UserDataType" characterName="1e52" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0265" spec="beast.evolution.datatype.UserDataType" characterName="1e55" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0266" spec="beast.evolution.datatype.UserDataType" characterName="1e54" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0267" spec="beast.evolution.datatype.UserDataType" characterName="1e57" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0268" spec="beast.evolution.datatype.UserDataType" characterName="1e56" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0269" spec="beast.evolution.datatype.UserDataType" characterName="1e59" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0270" spec="beast.evolution.datatype.UserDataType" characterName="1e58" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0271" spec="beast.evolution.datatype.UserDataType" characterName="1e2d" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0272" spec="beast.evolution.datatype.UserDataType" characterName="1e2e" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0273" spec="beast.evolution.datatype.UserDataType" characterName="1e2f" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0274" spec="beast.evolution.datatype.UserDataType" characterName="1e2a" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0275" spec="beast.evolution.datatype.UserDataType" characterName="1e2b" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0276" spec="beast.evolution.datatype.UserDataType" characterName="1e2c" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0277" spec="beast.evolution.datatype.UserDataType" characterName="1e5a" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0278" spec="beast.evolution.datatype.UserDataType" characterName="1e5c" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0279" spec="beast.evolution.datatype.UserDataType" characterName="1e5b" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0280" spec="beast.evolution.datatype.UserDataType" characterName="1e5e" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0281" spec="beast.evolution.datatype.UserDataType" characterName="1e5d" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0282" spec="beast.evolution.datatype.UserDataType" characterName="1e5f" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0283" spec="beast.evolution.datatype.UserDataType" characterName="1e48" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0284" spec="beast.evolution.datatype.UserDataType" characterName="1f3a" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0285" spec="beast.evolution.datatype.UserDataType" characterName="1f3b" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0286" spec="beast.evolution.datatype.UserDataType" characterName="1f3c" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0287" spec="beast.evolution.datatype.UserDataType" characterName="1f3d" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0288" spec="beast.evolution.datatype.UserDataType" characterName="1f3e" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0289" spec="beast.evolution.datatype.UserDataType" characterName="1f3f" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0290" spec="beast.evolution.datatype.UserDataType" characterName="1dfe" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0291" spec="beast.evolution.datatype.UserDataType" characterName="1dfd" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0292" spec="beast.evolution.datatype.UserDataType" characterName="1dff" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0293" spec="beast.evolution.datatype.UserDataType" characterName="1dfa" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0294" spec="beast.evolution.datatype.UserDataType" characterName="1dfc" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0295" spec="beast.evolution.datatype.UserDataType" characterName="1dfb" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0296" spec="beast.evolution.datatype.UserDataType" characterName="1f30" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0297" spec="beast.evolution.datatype.UserDataType" characterName="1f31" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0298" spec="beast.evolution.datatype.UserDataType" characterName="1f32" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0299" spec="beast.evolution.datatype.UserDataType" characterName="1f33" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0300" spec="beast.evolution.datatype.UserDataType" characterName="1f34" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0301" spec="beast.evolution.datatype.UserDataType" characterName="1df8" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0302" spec="beast.evolution.datatype.UserDataType" characterName="1f36" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0303" spec="beast.evolution.datatype.UserDataType" characterName="1f37" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0304" spec="beast.evolution.datatype.UserDataType" characterName="1df5" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0305" spec="beast.evolution.datatype.UserDataType" characterName="1df4" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0306" spec="beast.evolution.datatype.UserDataType" characterName="1df7" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0307" spec="beast.evolution.datatype.UserDataType" characterName="1df6" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0308" spec="beast.evolution.datatype.UserDataType" characterName="1df1" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0309" spec="beast.evolution.datatype.UserDataType" characterName="1df0" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0310" spec="beast.evolution.datatype.UserDataType" characterName="1df3" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0311" spec="beast.evolution.datatype.UserDataType" characterName="1df2" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0312" spec="beast.evolution.datatype.UserDataType" characterName="1e68" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0313" spec="beast.evolution.datatype.UserDataType" characterName="1e69" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0314" spec="beast.evolution.datatype.UserDataType" characterName="1e60" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0315" spec="beast.evolution.datatype.UserDataType" characterName="1e61" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0316" spec="beast.evolution.datatype.UserDataType" characterName="1e62" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0317" spec="beast.evolution.datatype.UserDataType" characterName="1e63" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0318" spec="beast.evolution.datatype.UserDataType" characterName="1e64" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0319" spec="beast.evolution.datatype.UserDataType" characterName="1e65" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0320" spec="beast.evolution.datatype.UserDataType" characterName="1e66" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0321" spec="beast.evolution.datatype.UserDataType" characterName="1e67" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0322" spec="beast.evolution.datatype.UserDataType" characterName="1e95" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0323" spec="beast.evolution.datatype.UserDataType" characterName="1e94" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0324" spec="beast.evolution.datatype.UserDataType" characterName="1e97" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0325" spec="beast.evolution.datatype.UserDataType" characterName="1e96" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0326" spec="beast.evolution.datatype.UserDataType" characterName="1e91" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0327" spec="beast.evolution.datatype.UserDataType" characterName="1e90" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0328" spec="beast.evolution.datatype.UserDataType" characterName="1e93" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0329" spec="beast.evolution.datatype.UserDataType" characterName="1e92" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0330" spec="beast.evolution.datatype.UserDataType" characterName="1e99" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0331" spec="beast.evolution.datatype.UserDataType" characterName="1e98" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0332" spec="beast.evolution.datatype.UserDataType" characterName="1f46" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0333" spec="beast.evolution.datatype.UserDataType" characterName="1e6a" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0334" spec="beast.evolution.datatype.UserDataType" characterName="1e6b" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0335" spec="beast.evolution.datatype.UserDataType" characterName="1e6c" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0336" spec="beast.evolution.datatype.UserDataType" characterName="1e6d" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0337" spec="beast.evolution.datatype.UserDataType" characterName="1e6e" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0338" spec="beast.evolution.datatype.UserDataType" characterName="1e6f" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0339" spec="beast.evolution.datatype.UserDataType" characterName="1e9e" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0340" spec="beast.evolution.datatype.UserDataType" characterName="1e9d" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0341" spec="beast.evolution.datatype.UserDataType" characterName="1e9f" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0342" spec="beast.evolution.datatype.UserDataType" characterName="1e9a" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0343" spec="beast.evolution.datatype.UserDataType" characterName="1e9c" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0344" spec="beast.evolution.datatype.UserDataType" characterName="1e9b" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0345" spec="beast.evolution.datatype.UserDataType" characterName="1f68" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0346" spec="beast.evolution.datatype.UserDataType" characterName="1f67" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0347" spec="beast.evolution.datatype.UserDataType" characterName="1f66" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0348" spec="beast.evolution.datatype.UserDataType" characterName="1f65" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0349" spec="beast.evolution.datatype.UserDataType" characterName="1f64" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0350" spec="beast.evolution.datatype.UserDataType" characterName="1f63" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0351" spec="beast.evolution.datatype.UserDataType" characterName="1f62" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0352" spec="beast.evolution.datatype.UserDataType" characterName="1f61" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0353" spec="beast.evolution.datatype.UserDataType" characterName="1f60" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0354" spec="beast.evolution.datatype.UserDataType" characterName="1e3f" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0355" spec="beast.evolution.datatype.UserDataType" characterName="1e3e" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0356" spec="beast.evolution.datatype.UserDataType" characterName="1e3d" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0357" spec="beast.evolution.datatype.UserDataType" characterName="1e3c" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0358" spec="beast.evolution.datatype.UserDataType" characterName="1e3b" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0359" spec="beast.evolution.datatype.UserDataType" characterName="1e3a" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0360" spec="beast.evolution.datatype.UserDataType" characterName="1edf" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0361" spec="beast.evolution.datatype.UserDataType" characterName="1de5" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0362" spec="beast.evolution.datatype.UserDataType" characterName="1edd" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0363" spec="beast.evolution.datatype.UserDataType" characterName="1de7" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0364" spec="beast.evolution.datatype.UserDataType" characterName="1edb" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0365" spec="beast.evolution.datatype.UserDataType" characterName="1edc" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0366" spec="beast.evolution.datatype.UserDataType" characterName="1de2" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0367" spec="beast.evolution.datatype.UserDataType" characterName="1de3" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0368" spec="beast.evolution.datatype.UserDataType" characterName="1de8" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0369" spec="beast.evolution.datatype.UserDataType" characterName="1de9" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0370" spec="beast.evolution.datatype.UserDataType" characterName="1e37" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0371" spec="beast.evolution.datatype.UserDataType" characterName="1e36" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0372" spec="beast.evolution.datatype.UserDataType" characterName="1e35" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0373" spec="beast.evolution.datatype.UserDataType" characterName="1e34" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0374" spec="beast.evolution.datatype.UserDataType" characterName="1e33" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0375" spec="beast.evolution.datatype.UserDataType" characterName="1e32" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0376" spec="beast.evolution.datatype.UserDataType" characterName="1e31" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0377" spec="beast.evolution.datatype.UserDataType" characterName="1e30" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0378" spec="beast.evolution.datatype.UserDataType" characterName="1e39" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0379" spec="beast.evolution.datatype.UserDataType" characterName="1e38" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0380" spec="beast.evolution.datatype.UserDataType" characterName="1ed6" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0381" spec="beast.evolution.datatype.UserDataType" characterName="1dee" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0382" spec="beast.evolution.datatype.UserDataType" characterName="1def" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0383" spec="beast.evolution.datatype.UserDataType" characterName="1ed5" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0384" spec="beast.evolution.datatype.UserDataType" characterName="1ed2" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0385" spec="beast.evolution.datatype.UserDataType" characterName="1dea" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0386" spec="beast.evolution.datatype.UserDataType" characterName="1ed0" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0387" spec="beast.evolution.datatype.UserDataType" characterName="1dec" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0388" spec="beast.evolution.datatype.UserDataType" characterName="1ed8" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0389" spec="beast.evolution.datatype.UserDataType" characterName="1ed9" codeMap="" states="-1" value=""/>
+                        <charstatelabels id="UserDataType.0390" spec="beast.evolution.datatype.UserDataType" characterName="1eee" codeMap="" states="-1" value=""/>
+                    </userDataType>
+                </data>
+
+
+    
+
+
+    
+
+
+    
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+
+<run id="mcmc" spec="MCMC" chainLength="30000000">
+    <state id="state" storeEvery="5000">
+        <tree id="Tree.t:mcelhanon-1967" name="stateNode">
+            <taxonset id="TaxonSet.mcelhanon-1967" spec="TaxonSet">
+                <alignment idref="mcelhanon-1967"/>
+            </taxonset>
+        </tree>
+        <parameter id="bcov_alpha.s:mcelhanon-1967" lower="1.0E-4" name="stateNode" upper="1.0">0.5</parameter>
+        <parameter id="bcov_s.s:mcelhanon-1967" lower="1.0E-4" name="stateNode" upper="Infinity">0.5</parameter>
+        <parameter id="frequencies.s:mcelhanon-1967" dimension="2" lower="0.0" name="stateNode" upper="1.0">0.25 0.75</parameter>
+        <parameter id="hiddenfrequencies.s:mcelhanon-1967" dimension="2" lower="0.0" name="stateNode" upper="1.0">0.9 0.1</parameter>
+        <parameter id="birthRate.t:mcelhanon-1967" name="stateNode">1.0</parameter>
+    </state>
+
+    <init id="RandomTree.t:mcelhanon-1967" spec="beast.evolution.tree.RandomTree" estimate="false" initial="@Tree.t:mcelhanon-1967" taxa="@mcelhanon-1967">
+        <populationModel id="ConstantPopulation0.t:mcelhanon-1967" spec="ConstantPopulation">
+            <parameter id="randomPopSize.t:mcelhanon-1967" name="popSize">1.0</parameter>
+        </populationModel>
+    </init>
+
+    <distribution id="posterior" spec="util.CompoundDistribution">
+        <distribution id="prior" spec="util.CompoundDistribution">
+            <distribution id="YuleModel.t:mcelhanon-1967" spec="beast.evolution.speciation.YuleModel" birthDiffRate="@birthRate.t:mcelhanon-1967" tree="@Tree.t:mcelhanon-1967"/>
+            <prior id="bcov_alpha_prior.s:mcelhanon-1967" name="distribution" x="@bcov_alpha.s:mcelhanon-1967">
+                <Uniform id="Uniform.0" name="distr" upper="Infinity"/>
+            </prior>
+            <prior id="bcov_s_prior.s:mcelhanon-1967" name="distribution" x="@bcov_s.s:mcelhanon-1967">
+                <Gamma id="Gamma.0" name="distr">
+                    <parameter id="RealParameter.0" lower="0.0" name="alpha" upper="0.0">0.05</parameter>
+                    <parameter id="RealParameter.01" lower="0.0" name="beta" upper="0.0">10.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="YuleBirthRatePrior.t:mcelhanon-1967" name="distribution" x="@birthRate.t:mcelhanon-1967">
+                <Uniform id="Uniform.01" name="distr" upper="Infinity"/>
+            </prior>
+        </distribution>
+        <distribution id="likelihood" spec="util.CompoundDistribution">
+            <distribution id="treeLikelihood.mcelhanon-1967" spec="TreeLikelihood" tree="@Tree.t:mcelhanon-1967" useAmbiguities="true">
+                <data
+id="orgdata.mcelhanon-1967"
+spec="FilteredAlignment"
+data="@mcelhanon-1967"
+filter="-"
+strip="true">
+                    <userDataType id="TwoStateCovarion.0" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:mcelhanon-1967" spec="SiteModel" gammaCategoryCount="1">
+                    <parameter id="mutationRate.s:mcelhanon-1967" estimate="false" name="mutationRate">1.0</parameter>
+                    <parameter id="gammaShape.s:mcelhanon-1967" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:mcelhanon-1967" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                    <substModel id="covarion" spec="BinaryCovarion" alpha="@bcov_alpha.s:mcelhanon-1967" hfrequencies="@hiddenfrequencies.s:mcelhanon-1967" switchRate="@bcov_s.s:mcelhanon-1967" vfrequencies="@frequencies.s:mcelhanon-1967">
+                        <frequencies id="dummyfrequencies.s:mcelhanon-1967" spec="Frequencies" data="@mcelhanon-1967" estimate="false"/>
+                    </substModel>
+                </siteModel>
+                <branchRateModel id="StrictClock.c:mcelhanon-1967" spec="beast.evolution.branchratemodel.StrictClockModel">
+                    <parameter id="clockRate.c:mcelhanon-1967" estimate="false" name="clock.rate">1.0</parameter>
+                </branchRateModel>
+            </distribution>
+        </distribution>
+    </distribution>
+
+    <operator id="bcovAlphaScaler.s:mcelhanon-1967" spec="ScaleOperator" parameter="@bcov_alpha.s:mcelhanon-1967" scaleFactor="0.75" weight="0.1"/>
+
+    <operator id="bcovSwitchParamScaler.s:mcelhanon-1967" spec="ScaleOperator" parameter="@bcov_s.s:mcelhanon-1967" scaleFactor="0.75" weight="0.1"/>
+
+    <operator id="YuleBirthRateScaler.t:mcelhanon-1967" spec="ScaleOperator" parameter="@birthRate.t:mcelhanon-1967" scaleFactor="0.75" weight="3.0"/>
+
+    <operator id="hFrequenciesDelta.t:mcelhanon-1967" spec="DeltaExchangeOperator" delta="0.01" weight="1.0">
+        <parameter idref="hiddenfrequencies.s:mcelhanon-1967"/>
+    </operator>
+
+    <operator id="frequenciesDelta.t:mcelhanon-1967" delta="0.01" spec="DeltaExchangeOperator" weight="0.01" parameter="@frequencies.s:mcelhanon-1967"/>
+
+    <operator id="treeScaler.t:mcelhanon-1967" spec="ScaleOperator" scaleFactor="0.5" tree="@Tree.t:mcelhanon-1967" weight="3.0"/>
+
+    <operator id="treeRootScaler.t:mcelhanon-1967" spec="ScaleOperator" rootOnly="true" scaleFactor="0.5" tree="@Tree.t:mcelhanon-1967" weight="3.0"/>
+
+    <operator id="UniformOperator.t:mcelhanon-1967" spec="Uniform" tree="@Tree.t:mcelhanon-1967" weight="30.0"/>
+
+    <operator id="SubtreeSlide.t:mcelhanon-1967" spec="SubtreeSlide" tree="@Tree.t:mcelhanon-1967" weight="15.0"/>
+
+    <operator id="narrow.t:mcelhanon-1967" spec="Exchange" tree="@Tree.t:mcelhanon-1967" weight="15.0"/>
+
+    <operator id="wide.t:mcelhanon-1967" spec="Exchange" isNarrow="false" tree="@Tree.t:mcelhanon-1967" weight="3.0"/>
+
+    <operator id="WilsonBalding.t:mcelhanon-1967" spec="WilsonBalding" tree="@Tree.t:mcelhanon-1967" weight="3.0"/>
+
+    <logger id="tracelog" fileName="mcelhanon-1967-covarion.log" logEvery="1000" model="@posterior" sort="smart">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log idref="treeLikelihood.mcelhanon-1967"/>
+        <log id="TreeHeight.t:mcelhanon-1967" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:mcelhanon-1967"/>
+        <log idref="bcov_alpha.s:mcelhanon-1967"/>
+        <log idref="bcov_s.s:mcelhanon-1967"/>
+        <log idref="YuleModel.t:mcelhanon-1967"/>
+        <log idref="birthRate.t:mcelhanon-1967"/>
+        <log idref="frequencies.s:mcelhanon-1967"/>
+        <log idref="hiddenfrequencies.s:mcelhanon-1967"/>
+    </logger>
+
+    <logger id="screenlog" logEvery="1000">
+        <log idref="posterior"/>
+        <log id="ESS.0" spec="util.ESS" arg="@posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+    </logger>
+
+    <logger id="treelog.t:mcelhanon-1967" fileName="mcelhanon-1967-covarion.trees" logEvery="1000" mode="tree">
+        <log id="TreeWithMetaDataLogger.t:mcelhanon-1967" spec="beast.evolution.tree.TreeWithMetaDataLogger" tree="@Tree.t:mcelhanon-1967"/>
+    </logger>
+
+</run>
+
+</beast>
