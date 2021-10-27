@@ -1,21 +1,24 @@
-# Huon Peninsula (Greenhill 2015):
+# Dataset greenhill2015
 
-```
-Greenhill, S. J. (2015). TransNewGuinea.org: An Online Database of New Guinea Languages. PLOS ONE, 10(10), e0141563. doi:10.1371/journal.pone.0141563
-```
+## How to cite
 
-* ID: greenhill2015:
-* URL: [https://dx.doi.org/10.1371/journal.pone.0141563](https://dx.doi.org/10.1371/journal.pone.0141563)
-* Paper: [paper](paper)
-* Original Files: [original](original)
-* Scaling: change
-* Taxa: 14 taxa 
-* Data: [data](data)
-* Nexus: [data.nex](data.nex)
-* Character Specification: None
-* Summary Tree: [summary.trees](summary.trees)
-* Posterior Probability Distribution: [posterior.trees](posterior.trees)
+If you use these data please cite
+- the original source
+  > Greenhill, S. J. (2015). TransNewGuinea.org: An Online Database of New Guinea Languages. PLOS ONE, 10(10), e0141563. doi:10.1371/journal.pone.0141563
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
-## Errors:
+## Description
 
-* missing characters
+
+Available online at https://dx.doi.org/10.1371/journal.pone.0141563
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Generic](https://github.com/cldf/cldf/tree/master/modules/Generic) at [cldf/Generic-metadata.json](cldf/Generic-metadata.json)
+
+## Summary Tree
+
+![summary](./summary_tree.svg)
