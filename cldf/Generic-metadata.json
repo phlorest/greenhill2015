@@ -15,7 +15,7 @@
         "analysis": "bayesian",
         "scaling": "change"
     },
-    "dc:title": "Phlorest phylogeny derived from Greenhill 2015 'Huon Peninsula (Greenhill 2015)'",
+    "dc:title": "Phlorest phylogeny derived from Greenhill2015'Huon Peninsula (Greenhill 2015)'",
     "dcat:accessURL": "https://github.com/phlorest/greenhill2015",
     "prov:wasDerivedFrom": [
         {
@@ -27,7 +27,7 @@
         {
             "rdf:about": "https://github.com/phlorest/greenhill2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "ebd4365",
+            "dc:created": "6c8f88c",
             "dc:title": "Repository"
         },
         {
