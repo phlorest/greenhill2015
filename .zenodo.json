@@ -1,0 +1,15 @@
+{
+    "title": null,
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Greenhill, S. J. (2015). TransNewGuinea.org: An Online Database of New Guinea Languages. PLOS ONE, 10(10), e0141563. doi:10.1371/journal.pone.0141563</p>\n</blockquote>",
+    "communities": [
+        {
+            "identifier": "dplace"
+        }
+    ]
+}
