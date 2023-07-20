@@ -25,7 +25,7 @@
             "dc:format": "https://en.wikipedia.org/wiki/Nexus_file"
         },
         {
-            "rdf:about": "https://github.com/lexibank/mcelhanonhuon",
+            "rdf:about": "https://doi.org/10.5281/zenodo.5127347",
             "rdf:type": "prov:Entity",
             "dc:description": "The CLDF dataset from which the data underlying the analysis was derived",
             "dc:format": "https://cldf.clld.org"
@@ -33,7 +33,7 @@
         {
             "rdf:about": "https://github.com/phlorest/greenhill2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "f3d30b5",
+            "dc:created": "eda72ce",
             "dc:title": "Repository"
         },
         {
