@@ -1,4 +1,4 @@
-# Phlorest phylogeny derived from Greenhill 2015 'Huon Peninsula (Greenhill 2015)'
+# Phlorest phylogeny derived from Greenhill 2015 'TransNewGuinea.org: An Online Database of New Guinea Languages'
 
 [![CLDF validation](https://github.com/phlorest/greenhill2015/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/greenhill2015/actions?query=workflow%3ACLDF-validation)
 
@@ -11,10 +11,12 @@ If you use these data please cite
 
 ## Description
 
+A [Phlorest phylogeny](https://github.com/phlorest) of the Huon Peninsula language family computed from a bayesian analysis scaled by change.
+
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
 
-Available online at https://doi.org/10.1371/journal.pone.0141563
+Source available online at https://doi.org/10.1371/journal.pone.0141563
 
 
 ## CLDF Datasets
@@ -25,4 +27,4 @@ The following CLDF datasets are available in [cldf](cldf):
 
 ## Summary Tree
 
-![summary](./summary_tree.svg)
+![summary](https://raw.githubusercontent.com/phlorest/greenhill2015/main/summary_tree.svg)
