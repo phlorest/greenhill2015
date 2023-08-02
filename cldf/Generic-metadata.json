@@ -15,7 +15,7 @@
         "analysis": "bayesian",
         "scaling": "change"
     },
-    "dc:title": "Phlorest phylogeny derived from Greenhill 2015 'Huon Peninsula (Greenhill 2015)'",
+    "dc:title": "Phlorest phylogeny derived from Greenhill 2015 'TransNewGuinea.org: An Online Database of New Guinea Languages'",
     "dcat:accessURL": "https://github.com/phlorest/greenhill2015",
     "prov:wasDerivedFrom": [
         {
@@ -33,7 +33,7 @@
         {
             "rdf:about": "https://github.com/phlorest/greenhill2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "eda72ce",
+            "dc:created": "249ed4f",
             "dc:title": "Repository"
         },
         {
