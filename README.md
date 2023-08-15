@@ -1,6 +1,7 @@
 # Phlorest phylogeny derived from Greenhill 2015 'TransNewGuinea.org: An Online Database of New Guinea Languages'
 
 [![CLDF validation](https://github.com/phlorest/greenhill2015/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/greenhill2015/actions?query=workflow%3ACLDF-validation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8250076.svg)](https://doi.org/10.5281/zenodo.8250076)
 
 ## How to cite
 
