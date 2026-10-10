@@ -1,0 +1,243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.511,
+          -6.56688
+        ]
+      },
+      "properties": {
+        "Name": "borong",
+        "Glottocode": "boro1279",
+        "isocode": "ksr",
+        "orig-Name": "Kosorong",
+        "Glottolog_Name": "Borong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.333,
+          -6.51663
+        ]
+      },
+      "properties": {
+        "Name": "burum",
+        "Glottocode": "buru1306",
+        "isocode": "bmu",
+        "orig-Name": "Burum",
+        "Glottolog_Name": "Burum-Mindik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.627,
+          -6.38206
+        ]
+      },
+      "properties": {
+        "Name": "dedua",
+        "Glottocode": "dedu1240",
+        "isocode": "ded",
+        "orig-Name": "Dedua",
+        "Glottolog_Name": "Dedua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.757,
+          -6.4795
+        ]
+      },
+      "properties": {
+        "Name": "kate",
+        "Glottocode": "kate1253",
+        "isocode": "kmg",
+        "orig-Name": "K\u00e2te",
+        "Glottolog_Name": "K\u00e2te"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.28,
+          -6.16163
+        ]
+      },
+      "properties": {
+        "Name": "komba",
+        "Glottocode": "komb1273",
+        "isocode": "kpf",
+        "orig-Name": "Komba",
+        "Glottolog_Name": "Komba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.536,
+          -6.42586
+        ]
+      },
+      "properties": {
+        "Name": "kube",
+        "Glottocode": "kube1244",
+        "isocode": "kgf",
+        "orig-Name": "Hube",
+        "Glottolog_Name": "Kulungtfu-Yuanggeng-Tobo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.682,
+          -6.59318
+        ]
+      },
+      "properties": {
+        "Name": "mape",
+        "Glottocode": "mape1249",
+        "isocode": "mlh",
+        "orig-Name": "Mape",
+        "Glottolog_Name": "Mape"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.137,
+          -6.56072
+        ]
+      },
+      "properties": {
+        "Name": "mesem",
+        "Glottocode": "mese1244",
+        "isocode": "mci",
+        "orig-Name": "Mese",
+        "Glottolog_Name": "Mese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.333,
+          -6.51663
+        ]
+      },
+      "properties": {
+        "Name": "mindik",
+        "Glottocode": "buru1306",
+        "isocode": "bmu",
+        "orig-Name": "Mindik",
+        "Glottolog_Name": "Burum-Mindik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.966,
+          -6.42709
+        ]
+      },
+      "properties": {
+        "Name": "nabak",
+        "Glottocode": "naba1256",
+        "isocode": "naf",
+        "orig-Name": "Nabak",
+        "Glottolog_Name": "Nabak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.579,
+          -6.19223
+        ]
+      },
+      "properties": {
+        "Name": "ono",
+        "Glottocode": "onoo1246",
+        "isocode": "ons",
+        "orig-Name": "Ono",
+        "Glottolog_Name": "Ono"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.234,
+          -6.03532
+        ]
+      },
+      "properties": {
+        "Name": "selepet",
+        "Glottocode": "sele1250",
+        "isocode": "spl",
+        "orig-Name": "Selepet",
+        "Glottolog_Name": "Selepet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.057,
+          -6.06875
+        ]
+      },
+      "properties": {
+        "Name": "timbe",
+        "Glottocode": "timb1251",
+        "isocode": "tim",
+        "orig-Name": "Timbe",
+        "Glottolog_Name": "Timbe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.376,
+          -6.36263
+        ]
+      },
+      "properties": {
+        "Name": "tobo",
+        "Glottocode": "tobo1251",
+        "isocode": "kgf",
+        "orig-Name": "Tobo",
+        "Glottolog_Name": "Tobo"
+      }
+    }
+  ]
+}
